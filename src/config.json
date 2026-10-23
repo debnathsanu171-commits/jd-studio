@@ -8,11 +8,39 @@
   "email": "debnathofficial07@gmail.com",
   "upiId": "7797691585@ptsbi",
   "city": "India",
-  "youtubeIds": ["", "", ""],
+  "youtubeIds": [
+    "nY9LhtEqjts",
+    "tBahoab2D7c",
+    "6diySLvVUc8",
+    "XYndLyv_EX4"
+  ],
   "localVideos": [
-    {"src": "assets/video/jd-ad-online-customers.mp4", "poster": "assets/img/jd-ad-poster.jpg", "title": "Followers hain, sale nahi?"},
-    {"src": "assets/video/landing-promo.mp4", "poster": "assets/img/landing-promo-poster.jpg", "title": "Landing page promo"},
-    {"src": "assets/video/diwali-post-pack.mp4", "poster": "assets/img/diwali-post-pack-poster.jpg", "title": "Diwali Post Pack"},
-    {"src": "assets/video/reel-3-galtiyan.mp4", "poster": "assets/img/reel-3-galtiyan-poster.jpg", "title": "Instagram ki 3 galtiyan"}
-  ]
+    {
+      "src": "assets/video/jd-ad-online-customers.mp4",
+      "poster": "assets/img/jd-ad-poster.jpg",
+      "title": "Followers hain, sale nahi?"
+    },
+    {
+      "src": "assets/video/landing-promo.mp4",
+      "poster": "assets/img/landing-promo-poster.jpg",
+      "title": "Landing page promo"
+    },
+    {
+      "src": "assets/video/diwali-post-pack.mp4",
+      "poster": "assets/img/diwali-post-pack-poster.jpg",
+      "title": "Diwali Post Pack"
+    },
+    {
+      "src": "assets/video/reel-3-galtiyan.mp4",
+      "poster": "assets/img/reel-3-galtiyan-poster.jpg",
+      "title": "Instagram ki 3 galtiyan"
+    }
+  ],
+  "youtubeTitles": [
+    "10,000 followers... aur sale ZERO?",
+    "Diwali Post Pack: 3 festive posts ₹600",
+    "Landing page ₹2,000 se",
+    "Website ki 3 galtiyan"
+  ],
+  "youtubeChannel": "https://www.youtube.com/channel/UC-zbsI4D_NT65cVzLdosk7w"
 }
